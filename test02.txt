@@ -1,0 +1,7 @@
+Answer 1
+Minimize HTTP Requests,Reduce server response time,Enable compression.
+
+Answer 2
+-Compacting JavaScript code can save many bytes of data and speed up downloading, parsing, and execution time.
+-Eliminate render-blocking JavaScript and CSS in above-the-fold content.
+-Compress images can save many bytes of data.
